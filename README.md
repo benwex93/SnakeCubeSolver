@@ -9,3 +9,4 @@ and the solution is composed of right (R), left (L), front(F), back (B), up (U),
 RBBBLURFLDFUFRRDBBBURDFFFUUBDBLULLFFURDRURBLDDLUULBBDRRRFULLBRRR
 
 The algorithm for finding the solution is a Depth-First-Search (DFS) recursion and finds all possible solutions.
+![snake_cube](https://github.com/user-attachments/assets/a8703e8b-70c0-49ef-95ee-4de2c07e6ae0)
